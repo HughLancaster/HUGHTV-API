@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "2.5.1",
-  "latestVersionCode": 251,
-  "updateMessage": "1. 修复了播放卡顿问题；\n2. 新增了投屏功能；\n3. 优化了界面交互体验",
+  "latestVersionName": "2026.3.10 (Stable) Fix",
+  "latestVersionCode": 2,
+  "updateMessage": "1. 新增上下集切换；\n2. 增加更新检查；\n3. 修复部分BUG \n 未来更新：\n   1. 投屏功能 \n 2. 适配平板",
   "isForce": true,
-  "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
+  "downloadUrl": "https://ghfast.top/https://api.qplexbyte.fun/app-release.apk"
 }
