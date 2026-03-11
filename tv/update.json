@@ -1,7 +1,7 @@
 {
-  "latestVersionName": "2026.3.11",
-  "latestVersionCode": 3,
-  "updateMessage": "1. 修复播放时息屏的问题 \n 未来更新：\n   1. 投屏功能 \n 2. 适配平板",
+  "latestVersionName": "2026.03.11_fba7f5b122b554e52b03d6f990f46afb",
+  "latestVersionCode": 4,
+  "updateMessage": "1. 可以投屏了； \n2.修复小问题\n",
   "isForce": true,
   "downloadUrl": "https://api.qplexbyte.fun/app-release.apk"
 }
