@@ -1,7 +1,7 @@
 {
 "latestVersionName": "2026.03.20_33bfcb80",
-"latestVersionCode": 9,
-"updateMessage": "优化播放器为专业级别。\n优化部分布局。\n重构部分页面。\n修复部分问题。\n重绘App图标。",
+"latestVersionCode": 2000,
+"updateMessage": "3月20晚间更新：\n  修复部分问题。\n  重绘App图标。",
 "isForce": true,
-"downloadUrl": "https://api.qplexbyte.fun/320.apk"
+"downloadUrl": "https://api.qplexbyte.fun/update.apk"
 }
